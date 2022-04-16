@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "5069feda2d072df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e1222b06b99c8e",
+        "type": "leaf",
+        "dimension": 27.27272727272727,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/Session Six (4-16-22).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fc961fa469053565",
+        "type": "leaf",
+        "dimension": 33.433014354066984,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lore/Characters/Otter Valley/Misc/Lerick Grey the Wizard.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e77a6b5bc442537f",
+        "type": "leaf",
+        "dimension": 39.29425837320574,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lore/Events/War.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddf65d90506f9cac",
+    "type": "split",
+    "children": [
+      {
+        "id": "7edb829e1442c9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eeaf6756cd36cff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8629445ce7f79e2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398
+  },
+  "right": {
+    "id": "566378f277d769c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cf3975cf30bceca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4e010d585de6486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Session Six (4-16-22).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "708d49e35b77863a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5e1222b06b99c8e",
+  "lastOpenFiles": [
+    "Session Notes/Session Six (4-16-22).md",
+    "Adventures/The Haunted Basement/Haunted Basement - Clues.md",
+    "Lore/Events/War.md",
+    "Lore/Characters/Otter Valley/Misc/Halfling Family (The Gentleharps).md",
+    "Lore/Characters/Otter Valley/Misc/Lerick Grey the Wizard.md",
+    "Lore/Locations/Otter Valley/Otter Valley.md",
+    "Session Notes/Session Five (3-30-22).md",
+    "Adventures/The Haunted Basement/Haunted Basement - Dam Good Deals (shop).md",
+    "Lore/Locations/Otter Valley/The Golden Lutra.md",
+    "Adventures/The Mill.md"
+  ]
+}

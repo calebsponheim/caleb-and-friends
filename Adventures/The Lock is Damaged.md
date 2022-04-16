@@ -1,0 +1,7 @@
+- 24 hours ISH after our heroes leave the boat, the lock's foundation is damaged. 
+- When a small seed of [[The Sludge]] is placed far underground [[Otter Valley]] by [[The Boss - Gashak]], the monstrous alien tree-like growth erupting from it eventually, slowly, makes its way high enough to pierce the foundation of [[The Lock]], halting all function of the mechanisms of trade until it can be repaired.
+- #mystery : what caused the damage to the lock?
+	- a seed of [[The Sludge]], but the PCs don't know that unless they investigate a LOT.
+- To the inhabitants of the town, the lock has broken before and it takes time to fix it.
+- I estimate that it will take two weeks (at least) to fix the lock and allow the adventurers to continue if they so choose. 
+- Even though [[The Green Hand]] caused this, the rank and file members of the mob don't know what caused this, and aren't informed. 

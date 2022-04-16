@@ -1,0 +1,6 @@
+-  Sludge is an #enemy, maybe the biggest enemy in the campaign. It is a natural force which essentially is a force for breaking down order and reinstating chaos, or a type of it. 
+-  It's not necessarily like plant life, but it may be more of a response to humanity. It's maybe even the results of the nascent attempts at industrialization and [[War]] that have occurred in this area.
+-  An overwhelming wall of [[The Sludge]] is encroaching on [[Toris]] from the North. [[Ellon]] isn't really aware of this, but certain members of the [[Ellonian Government]] are in fact aware of the existence of [[The Sludge]]. 
+	-  Certain people, including [[Arvin, The Council Advisor]], communicate enough with the [[Torisian Government]] to know of its existence.
+- the sludge is uh black ooze or some sort of ooze monster. it feeds on organic matter 
+- came from a different plane of existence, found by [[Torisian Government]] in a cave somewhere. but [[the rift]] is getting bigger and threatening to take over Toris completely. 

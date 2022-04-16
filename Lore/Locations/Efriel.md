@@ -1,0 +1,1 @@
+Efriel is the name of the continent on which [[Ellon]] and [[Toris]] reside

@@ -1,0 +1,5 @@
+- In the recent past relative to session one, there was a major conflict between [[Ellon]] and [[Toris]]. There isn't a name for this [[War]], but it has reached a cautious long-term stalemate, with neither nation willing to accept or admit defeat.
+- The stalemate occurred because the arms race reached a point at which  [[Toris]] managed to develop Magical Weapons of Mass Destruction, causing a Cold War to break out. 
+- Here's a #mystery : Why hasn't [[Toris]] used its mass destruction weapon?
+	- Answer: They are beset by a natural force called [[The Sludge]], turning their focus away from the cold war conflict and draining its already dwindling resources. 
+- There is a tacit establishment of a [[no man's land]]  on the border between [[Ellon]] and [[Toris]], where both nations, consistent in the Militarist 

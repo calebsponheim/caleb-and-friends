@@ -1,0 +1,5 @@
+- The lock is in the middle of [[Otter Valley]]. 
+- it ferries boats from the top of [[The Dam]] to the bottom.
+- It takes 48 hours for the lock to raise OR lower, a very long time. 
+- As a result, there are large warehouses to support the storage of goods nearby the lock.
+- There are also a number of inns (some fancy, some not so much)

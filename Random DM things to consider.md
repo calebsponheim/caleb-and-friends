@@ -1,0 +1,4 @@
+- Ask a friend or two if they would want to have control of an evil NPC in the game  
+- Consider having an NPC offer their services to a PC; the PC runs them in combat, but the DM role plays them
+- Set up a calendar and track days
+- Grant inspiration frequently! at least 1x per character per session.
